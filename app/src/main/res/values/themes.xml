@@ -1,0 +1,9 @@
+<resources>
+    <!-- Tema principal da aplicação -->
+    <style name="Theme.MyLibrary" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personalizações do tema -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
