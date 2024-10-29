@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">My Library</string>
+    <string name="app_name"> </string>
+    <string name="adicionar_livros">Adicionar livros</string>
+    <string name="adicionar">ADICIONAR</string>
+    <string name="tipo">Tipo</string>
+    <string name="autor">Autor</string>
+    <string name="paginas_lidas">Páginas lidas</string>
+    <string name="paginas">Páginas</string>
+    <string name="lido">Lido</string>
+    <string name="clean_code">Clean code</string>
+    <string name="editar_livros">Editar</string>
+    <string name="delete">DELETE</string>
+    <string name="genero">GÊNERO</string>
+    <string name="livro">Livro</string>
+    <string name="salvar">SALVAR</string>
 </resources>
